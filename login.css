@@ -1,0 +1,76 @@
+body {
+  font-family: sans-serif;
+  background-image: url("/images/georgie-cobbs-bKjHgo_Lbpo-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#content {
+  background-color: whitesmoke;
+  width: 450px;
+  height: 500px;
+  border-radius: 30px;
+  text-align: center;
+  margin: 0px 340px;
+}
+#main {
+  font-weight: 600;
+  font-size: larger;
+  font-family: sans-serif;
+  margin-left: 13.5cm;
+  padding: 20px;
+  font-family: sans-serif;
+}
+.input {
+  width: 350px;
+  height: 40px;
+}
+#all {
+  margin-top: 1.5cm;
+  margin-left: 3cm;
+}
+#text {
+  text-decoration: solid;
+  font-size: 25px;
+  margin-bottom: 13px;
+  font-weight: 700;
+  color: rgb(34, 34, 34);
+}
+#attr {
+  color: grey;
+  margin-bottom: 13px;
+}
+#Request {
+  margin-right: 6.5cm;
+  padding: 10px;
+  font-weight: 400;
+}
+#Request2 {
+  margin-right: 7.5cm;
+  padding: 8px;
+}
+#rem1 {
+  margin-right: 6.2cm;
+  margin-top: 20px;
+}
+#forgot {
+  text-decoration: none;
+  color: inherit;
+  font-size: 25px;
+  font-weight: 300;
+}
+
+.sign_in {
+  width: 330px;
+  height: 40px;
+  border-radius: 70px;
+  background-color: rgb(20, 81, 202);
+  font-family: sans-serif;
+  font-weight: 700;
+  cursor: pointer;
+  color: azure;
+}
+#other {
+  font-weight: 600;
+  text-decoration: none;
+  color: black;
+}
